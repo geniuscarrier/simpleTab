@@ -1,0 +1,34 @@
+{
+    "name": "simpleTab",
+    "title": "jQuery simpleTab",
+    "description": "a simpleTab jQuery plugin.",
+    "keywords": [
+        "simpleTab"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Yang Zhao",
+        "url": "http://www.geniuscarrier.com/about/"
+    },
+    "maintainers": [
+        {
+            "name": "Yang Zhao",
+            "email": "geniuscarrier@gmail.com",
+            "url": "http://www.geniuscarrier.com/"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "bugs": "https://github.com/geniuscarrier/simpleTab/issues",
+    "demo": "http://www.geniuscarrier.com/demo/simpleTab/simpleTab.html",
+    "homepage": "https://github.com/geniuscarrier/simpleTab",
+    "docs": "https://github.com/geniuscarrier/simpleTab",
+    "download": "https://github.com/geniuscarrier/simpleTab/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
