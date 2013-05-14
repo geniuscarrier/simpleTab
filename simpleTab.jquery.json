@@ -1,11 +1,11 @@
 {
     "name": "simpleTab",
     "title": "jQuery simpleTab",
-    "description": "a simpleTab jQuery plugin.",
+    "description": "Create an easy-to-config simple tab with smallest code base.",
     "keywords": [
         "simpleTab"
     ],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": {
         "name": "Yang Zhao",
         "url": "http://www.geniuscarrier.com/about/"
@@ -25,7 +25,7 @@
     ],
     "bugs": "https://github.com/geniuscarrier/simpleTab/issues",
     "demo": "http://www.geniuscarrier.com/demo/simpleTab/simpleTab.html",
-    "homepage": "https://github.com/geniuscarrier/simpleTab",
+    "homepage": "http://geniuscarrier.com/simpletab-a-jquery-plugin/",
     "docs": "https://github.com/geniuscarrier/simpleTab",
     "download": "https://github.com/geniuscarrier/simpleTab/archive/master.zip",
     "dependencies": {
