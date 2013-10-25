@@ -5,7 +5,7 @@
     "keywords": [
         "simpleTab"
     ],
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": {
         "name": "Yang Zhao",
         "url": "http://www.geniuscarrier.com/about/"
@@ -24,7 +24,7 @@
         }
     ],
     "bugs": "https://github.com/geniuscarrier/simpleTab/issues",
-    "demo": "http://www.geniuscarrier.com/demo/simpleTab/simpleTab.html",
+    "demo": "http://www.geniuscarrier.com/demo/simpleTab/",
     "homepage": "http://geniuscarrier.com/simpletab-a-jquery-plugin/",
     "docs": "https://github.com/geniuscarrier/simpleTab",
     "download": "https://github.com/geniuscarrier/simpleTab/archive/master.zip",

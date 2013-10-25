@@ -8,14 +8,14 @@ How to use:
 1. Include necessary JS files
 
 	```
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script src="js/jquery.simpleTab.min.js"></script>
+	<script src="jquery.js"></script>
+	<script src="jquery.simpleTab.min.js"></script>
   	```
 
 2. Add simpleTab CSS file. Please tweak it to serve your needs.
 
 	```
-	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" href="style.css" />
 	```
 
 3. Create the following HTML element
@@ -67,7 +67,7 @@ Live Demo:
 -------------------------
 
 * [Homepage](http://www.geniuscarrier.com)
-* [Demo](http://www.geniuscarrier.com/demo/simpleTab/simpleTab.html)
+* [Demo](http://www.geniuscarrier.com/demo/simpleTab/)
 
 License:
 -------------------------
