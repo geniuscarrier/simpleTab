@@ -66,8 +66,8 @@ Compatibility:
 Live Demo:
 -------------------------
 
-* [Homepage](http://www.geniuscarrier.com)
-* [Demo](http://www.geniuscarrier.com/demo/simpleTab/)
+* [Homepage](http://geniuscarrier.com)
+* [Demo](http://geniuscarrier.com/simpletab-a-jquery-plugin/)
 
 License:
 -------------------------
